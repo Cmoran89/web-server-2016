@@ -1,0 +1,156 @@
+a.navbar-brand {
+    font-family: Brush Script Std;
+    font-size: 45px;
+    font-weight: 400;
+}
+
+.navbar-default .navbar-brand {
+    color: black;
+}
+
+.navbar-default {
+    background-color: #9898ff;
+    border-color: #4c4cff;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: black;
+}
+
+.image-header {
+  background-color: #E0E0E0;
+  /*background-image: url("http://creationmedia.in/wp-content/uploads/2015/03/More-Tumblr-Backgrounds-for-guys-light-gray.jpg");*/
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+}
+
+main {
+  /*color: #093145;*/
+  color: black;
+}
+
+nav.navbar.navbar-default {
+    margin-bottom: 0px;
+}
+
+section {
+    /*border-bottom: 4px solid #9898ff;*/
+    padding-bottom: 30px;
+}
+
+section#about-section {
+  background-image: url("https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/11008554_480933085393945_3365386704715132715_n.jpg?oh=faddd5d3fb440099577edb1deee9201c&oe=58F84522");
+  background-size: cover;
+  /*background-color: #EEEEEE;*/
+}
+
+section#goals-section {
+  background-color: #E0E0E0;
+}
+
+section#education-section {
+  background-color: #BDBDBD;
+}
+
+section#work-section {
+  background-image: url("https://scontent-mia1-2.xx.fbcdn.net/v/t1.0-9/14606275_720230848130833_1212723713832603655_n.jpg?oh=83d4a6c24d4dea8fab42889176aba8c2&oe=58F07D22");
+  background-size:cover;
+  /*background-color: #9E9E9E;*/
+}
+
+.container-fluid {
+  background-color: #FF4081;
+  /*background-image: url("https://d13yacurqjgara.cloudfront.net/users/1123302/screenshots/2693214/sprinkles-pattern-wallpaper_1x.png");*/
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center;
+  /*background-color: #f58b4c;*/
+}
+
+.navbar {
+  border-radius: 0;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: black;
+  height: 90px;
+  padding: 35px;
+  font-size: 20px;
+
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus,
+.navbar-default .navbar-nav > li > a.active {
+  color: #fff;
+  background-color: rgba(0,0,0, .4);
+}
+
+.navbar-brand > img {
+    height: 90px;
+    display: inline-block;
+    padding-right: 23px;
+}
+
+a.navbar-brand {
+    padding-left: 0px;
+    padding-top: 0px;
+}
+
+div#carousel-example-generic {
+    margin: 0 50px;
+    border: 3px solid #9898ff;
+}
+
+div#carousel-example-generic img {
+    width: 100%;
+    height: 400px;
+}
+
+
+
+button.navbar-toggle.collapsed {
+    padding: 30px;
+}
+
+button.navbar-toggle {
+    padding: 30px;
+}
+
+p {
+    font: 20px verdana, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+h3 {
+  text-align: center;
+  padding-bottom:20px;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.google-maps {
+    position: relative;
+    padding-bottom: 75%;
+    height: 0;
+    overflow: hidden;
+    border: 3px solid #9898ff;
+}
+
+iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.align-center {
+  text-align: center;
+}
+
+.modal-content {
+    background-image: url("https://scontent-atl3-1.xx.fbcdn.net/v/t1.0-9/11953286_533767476777172_8585377918638435470_n.jpg?oh=e397d26451b5e50089941cb340636585&oe=58F81FAE");
+    background-size: cover;
+}
